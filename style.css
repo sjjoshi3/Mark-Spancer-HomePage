@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+* {
+
+    margin: 1px;
+    padding-right: 3px;
+}
+
+#marquee{
+    background-color: #111;
+    font-weight: 400;
+    color: white;
+}
+
+#inner-marquee{
+    padding: 0 25%;
+}
+
+/* First-Navbar Start */
+
+.first-navbar{
+    display: flex;
+    margin: 1.5rem 2rem ;
+    width: 100vw;
+    
+}
+
+.first-navbar ul ,.first-navbar ul div {
+    display: flex;
+    
+}
+
+.first-navbar ul div{
+    margin-left:18% ;
+    width: 80vw;
+    
+}
+
+.first-navbar ul div li{
+
+    
+    margin-inline-end: 6rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.first-navbar ul div li i{
+
+    font-size: 2rem;
+  
+}
+.first-navbar ul div li p{
+
+    text-align: center;
+    width: 3.5rem;
+  
+}
+
+
+.first-navbar ul li {
+    list-style: none;
+    
+    
+}
+
+.first-navbar ul li form input {
+    
+    width: 22rem;
+    height: 3.3rem;
+
+}
+
+
+
+#first-navbar-image{
+    width: 7.5rem;
+}
+
+/* First-Navbar Done */
+
+/* Second-Navbar Start */
+
+.second-navbar{
+    padding: .2rem 5%;
+}
+
+.second-navbar ul{
+ 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+.second-navbar ul li{
+ 
+    font-size: 1.4rem;
+    list-style: none;
+    padding: 0 1rem;
+    font-weight: 500;
+}
+
+/* Second-navbar Done */
+
+
+/* Home-Carousal Start */
+
+
+/* Home-Carousal End */
